@@ -69,7 +69,6 @@ The project also provides practical experience in data cleaning, grouping, aggre
 
 # Author
 
-# Abdulwahab Idris
-# Data Analyst | Data Science Student
 
-Data Analyst | Data Science Student
+
+Data Analyst | Data Science Stude# nt
