@@ -67,8 +67,10 @@ This project demonstrates how Python can be used to perform basic customer data 
 
 The project also provides practical experience in data cleaning, grouping, aggregation, and visualisation, which are important skills for a data analyst.
 
+
+
+# Author
+
 # Abdulwahab Idris
 
 # Data Analyst | Data Science Student
-
-# Author
