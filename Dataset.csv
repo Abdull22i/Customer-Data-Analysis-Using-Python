@@ -1,0 +1,501 @@
+CustomerID,Name,Gender,Age,City,MonthlyIncome,SignupDate,LastPurchaseDate,ProductsPurchased,SpendingScore,PreferredChannel,CustomerSatisfaction,Churn
+1,Patrick Sanchez,Female,25,Abuja,63112,09/02/2026,26/11/2027,8,95,Online,4.2,0
+2,Megan Mcclain,Male,45,Abuja,66663,25/12/2023,21/08/2025,8,4,Mobile App,3.8,0
+3,Amanda Davis,Female,59,Abuja,417696,05/10/2023,08/10/2025,15,70,Mobile App,2.8,0
+4,Alyssa Gonzalez,Female,28,Port Harcourt,416026,18/05/2024,05/07/2026,5,55,Online,4.9,1
+5,Jennifer Cole,Female,23,Port Harcourt,249191,25/02/2026,10/06/2026,20,13,Store,4.4,1
+6,Abigail Shaffer,Female,25,Kano,248461,28/07/2024,29/01/2026,12,11,Mobile App,2.6,0
+7,Donald Lewis,Female,60,Lagos,169484,11/05/2026,27/06/2026,8,99,Online,3.1,1
+8,James Howard,Female,41,Abuja,135277,26/10/2024,08/08/2026,22,48,Store,4.1,0
+9,Renee Blair,Male,58,Abuja,139725,07/11/2024,24/07/2026,15,69,Store,2.8,0
+10,Thomas Miller,Male,38,Abuja,491897,02/09/2025,05/08/2027,2,99,Store,3.2,0
+11,Lisa Hensley,Male,54,Ibadan,426393,20/08/2024,25/03/2025,13,41,Mobile App,3.4,1
+12,Benjamin Stanley,Female,33,Kano,440588,04/11/2025,27/03/2026,14,72,Mobile App,3.2,0
+13,Dr. Sharon James,Male,50,Lagos,308744,14/08/2024,03/01/2025,5,12,Mobile App,2.5,1
+14,Holly Wood,Female,22,Kano,251728,26/04/2025,28/12/2026,9,49,Mobile App,4.6,0
+15,Mia Sutton,Female,25,Port Harcourt,407412,12/04/2024,10/03/2026,4,69,Store,3.3,1
+16,Carolyn Daniel,Male,34,Kano,312451,10/09/2023,14/09/2023,4,98,Mobile App,2.9,0
+17,Devin Schaefer,Male,41,Kano,449775,31/01/2024,06/07/2024,11,21,Store,2.1,1
+18,Melinda Cameron,Male,37,Kano,175541,26/04/2026,12/10/2028,3,8,Online,4.2,0
+19,Andrew Stewart,Male,52,Ibadan,451517,17/08/2023,04/10/2025,18,17,Online,2.8,1
+20,Thomas Bradley,Male,52,Port Harcourt,445976,11/07/2024,13/02/2025,13,94,Mobile App,3.9,1
+21,Jonathan Wilkerson,Male,46,Lagos,113441,22/09/2024,06/03/2026,11,32,Online,3.8,0
+22,Derek Wright,Male,32,Abuja,53770,14/02/2026,10/10/2027,3,10,Online,4.6,0
+23,Nicole Patterson,Female,33,Abuja,196002,11/10/2025,22/03/2027,18,86,Online,4.2,1
+24,Daniel Bright,Male,48,Lagos,473360,14/11/2025,21/07/2026,4,53,Mobile App,3.3,1
+25,Peter Callahan Jr.,Male,47,Lagos,432245,22/07/2025,16/09/2026,13,7,Mobile App,3,0
+26,Jennifer Brown,Female,30,Abuja,149724,26/01/2024,07/10/2024,14,69,Online,2.8,0
+27,Julie King,Male,22,Lagos,282328,04/01/2025,19/06/2027,21,71,Mobile App,4.5,0
+28,Alexandra Le,Female,33,Ibadan,137194,28/09/2025,09/11/2027,7,53,Store,4.7,0
+29,Nicole Mack,Female,18,Port Harcourt,254693,16/04/2026,10/05/2027,14,34,Mobile App,4.9,1
+30,Jeffrey Chavez,Male,30,Kano,205560,01/11/2024,09/04/2025,24,28,Mobile App,2.2,1
+31,Pamela Romero,Male,21,Lagos,356277,05/07/2024,02/09/2024,17,62,Online,4.6,0
+32,Elizabeth Fowler,Female,22,Lagos,404005,04/11/2023,06/07/2025,19,31,Online,3.7,0
+33,James Martin,Female,23,Port Harcourt,269794,24/12/2025,20/09/2027,7,85,Mobile App,4.1,0
+34,Linda Burns,Female,43,Ibadan,118617,23/08/2025,22/05/2026,11,86,Online,2,0
+35,Sherry Decker,Female,52,Abuja,161754,12/11/2023,27/01/2024,12,65,Online,4.6,1
+36,David Bradley,Female,28,Kano,279734,11/09/2024,30/06/2025,21,70,Mobile App,2,1
+37,John Jones,Male,24,Lagos,120407,22/09/2023,02/08/2025,24,34,Mobile App,2.5,1
+38,Betty Alvarez,Male,31,Port Harcourt,426235,27/08/2025,09/05/2027,17,44,Store,2.8,0
+39,Joseph Obrien,Male,58,Lagos,272075,23/09/2025,27/12/2025,11,36,Online,3.9,1
+40,Nicole Vaughn,Female,46,Kano,339239,16/04/2024,29/09/2024,1,91,Online,2.2,0
+41,Michael Brooks,Male,20,Ibadan,487568,18/09/2024,31/03/2026,5,48,Online,2.9,0
+42,David Brown,Male,31,Port Harcourt,407599,04/08/2025,06/08/2026,25,32,Mobile App,4.7,1
+43,Crystal Robinson,Male,27,Ibadan,174118,24/06/2023,21/03/2025,1,21,Online,4.2,1
+44,Amy Jones,Male,44,Port Harcourt,470602,10/09/2023,20/11/2025,6,86,Mobile App,2.3,0
+45,Andrea Young,Female,48,Port Harcourt,166619,10/07/2023,06/12/2025,10,26,Online,2.7,0
+46,Mr. Nathaniel Khan,Female,39,Port Harcourt,196068,27/03/2026,10/05/2027,21,9,Mobile App,3.2,1
+47,Richard Aguirre,Female,25,Lagos,186951,03/11/2025,02/12/2025,4,23,Mobile App,3.3,1
+48,Matthew Gomez,Female,56,Kano,318132,13/03/2024,03/06/2025,7,15,Store,2.1,1
+49,Nicholas Nunez,Male,51,Port Harcourt,472843,19/02/2025,21/02/2025,14,69,Online,4.8,1
+50,James Morgan,Female,38,Kano,397806,19/02/2026,20/11/2027,10,16,Mobile App,3.2,1
+51,Connor West,Male,36,Ibadan,340671,08/11/2023,22/10/2025,22,17,Store,4,0
+52,Joel Baxter,Male,54,Port Harcourt,207784,08/03/2025,29/11/2026,10,52,Online,3.3,1
+53,Scott Pierce,Male,46,Kano,281819,17/09/2023,06/01/2025,16,87,Mobile App,2.5,0
+54,Kimberly Smith,Female,50,Lagos,398050,09/08/2023,26/05/2024,25,82,Online,4,0
+55,Sarah Martin,Male,30,Abuja,127255,14/10/2023,17/01/2026,16,4,Mobile App,4.5,0
+56,Dr. Steven Martin,Male,44,Ibadan,380178,15/06/2025,25/09/2026,16,74,Store,2.7,0
+57,Mrs. Rachel Gibson,Male,24,Abuja,458116,26/05/2023,03/07/2025,23,55,Mobile App,3.4,0
+58,Monica Logan,Female,25,Kano,289317,10/03/2025,27/07/2027,18,18,Mobile App,3,1
+59,Brittney Phillips,Female,50,Abuja,273735,16/03/2026,04/12/2027,24,71,Store,3.4,0
+60,Kimberly Adkins,Female,58,Abuja,195391,21/08/2023,29/12/2025,9,99,Store,2.2,1
+61,John Calhoun,Male,35,Abuja,226080,19/08/2023,16/04/2024,5,41,Online,3.1,0
+62,Tyler Miller,Female,31,Port Harcourt,83674,25/08/2025,19/08/2027,18,54,Store,3.2,0
+63,Barry Hensley,Male,44,Kano,254198,06/03/2024,07/07/2026,13,99,Store,2,1
+64,Steve Sanchez,Male,42,Ibadan,497452,08/02/2025,11/12/2025,8,54,Store,3.3,0
+65,Bradley Sandoval,Female,39,Abuja,400682,01/12/2025,04/01/2027,15,87,Online,4.9,0
+66,Taylor Harris,Male,55,Lagos,345903,17/10/2025,25/11/2026,21,85,Store,2.4,1
+67,James Powers,Female,21,Abuja,186396,22/09/2024,28/03/2025,15,49,Store,3,1
+68,Timothy Walls,Female,44,Lagos,182262,31/08/2024,12/06/2025,24,11,Mobile App,2.2,1
+69,Zachary Ferrell,Male,59,Lagos,85975,06/06/2023,22/01/2024,8,100,Online,4.5,0
+70,Katie Anderson,Male,26,Kano,298282,13/09/2023,15/05/2024,7,86,Store,4.1,1
+71,Sherry Wood,Male,56,Abuja,368372,15/11/2024,06/05/2025,10,96,Online,3.7,1
+72,Joshua Turner,Male,42,Lagos,257961,23/01/2024,04/09/2025,19,92,Mobile App,4.5,0
+73,Mary Spencer,Male,37,Kano,495798,03/03/2026,16/06/2026,2,88,Store,3.6,1
+74,Shawn Baker,Male,50,Ibadan,389499,18/03/2026,28/05/2026,16,44,Online,3.3,1
+75,Brittney Campbell,Female,47,Abuja,420833,05/11/2023,17/08/2025,24,20,Mobile App,4.9,1
+76,Christina Walters,Female,52,Ibadan,456135,14/04/2024,05/01/2026,24,62,Mobile App,2.8,0
+77,Danielle Odonnell,Male,23,Ibadan,196238,06/07/2024,04/11/2026,19,58,Mobile App,4,1
+78,Jeff Hill,Male,49,Ibadan,496144,09/08/2023,08/09/2023,7,42,Store,4.4,1
+79,Carlos Whitney,Male,56,Kano,417622,28/05/2023,10/03/2024,7,36,Online,2.7,1
+80,Kristen Patterson,Female,53,Ibadan,447496,29/01/2024,13/06/2025,15,31,Online,2.3,0
+81,Tony Vazquez,Female,33,Ibadan,210540,07/06/2023,26/07/2024,18,85,Mobile App,3,1
+82,Sandra Aguilar,Female,47,Abuja,192038,09/01/2024,04/01/2025,4,40,Mobile App,2.6,0
+83,Andrew Diaz,Male,52,Abuja,449606,08/01/2024,07/02/2026,7,89,Mobile App,3.5,1
+84,Christine Wright,Female,30,Abuja,205318,23/07/2023,03/11/2023,10,30,Online,4.1,0
+85,Justin Baxter,Female,20,Abuja,78587,29/10/2023,05/08/2024,21,71,Store,2.3,0
+86,Tammy Young,Female,36,Port Harcourt,296099,11/01/2026,22/08/2027,6,62,Online,2.8,1
+87,Rita Keith,Male,22,Kano,260086,30/01/2024,26/05/2024,21,63,Mobile App,2.2,0
+88,Tim Patton,Male,54,Lagos,209297,30/06/2023,08/10/2025,18,11,Store,3.8,0
+89,Sharon Cochran,Female,51,Port Harcourt,249427,20/02/2025,26/04/2027,19,58,Store,2.9,0
+90,Michael Reyes,Male,24,Port Harcourt,449893,10/07/2024,27/03/2026,22,27,Online,2.5,0
+91,Courtney Velasquez,Female,22,Ibadan,132068,22/07/2023,07/02/2025,23,1,Mobile App,3.4,0
+92,Robert Savage,Female,36,Lagos,420648,07/05/2025,31/12/2025,22,37,Online,4.8,0
+93,Corey Murphy,Male,25,Port Harcourt,335507,03/05/2024,13/07/2025,5,29,Online,2.2,1
+94,Diana May,Male,54,Ibadan,201315,07/09/2023,09/05/2025,23,57,Store,4.1,1
+95,Sarah Rivera,Male,52,Kano,308890,01/02/2025,29/06/2026,2,57,Store,4.2,1
+96,Wesley White,Male,23,Port Harcourt,170022,04/07/2023,31/07/2023,19,87,Online,4.3,0
+97,Kyle Reed,Female,51,Abuja,391578,08/07/2024,02/11/2025,19,57,Store,3.9,1
+98,William Wilson,Female,48,Port Harcourt,232431,21/09/2024,24/12/2024,22,53,Online,4.6,1
+99,Andrew Graham,Female,49,Kano,201109,03/11/2025,30/12/2026,2,85,Store,2.3,1
+100,Kimberly Ball,Male,25,Kano,455037,07/08/2025,05/07/2026,15,52,Store,2.2,1
+101,Jeffrey Rush,Male,49,Abuja,377894,29/03/2026,27/12/2027,9,57,Mobile App,2.4,1
+102,Mary Martinez,Male,49,Abuja,113662,16/10/2024,08/01/2026,10,4,Mobile App,2,1
+103,Mary Nguyen,Female,32,Lagos,491138,31/08/2024,05/12/2024,21,15,Online,3.5,1
+104,Cameron Fisher,Female,35,Abuja,267836,10/05/2026,14/10/2027,15,62,Mobile App,2.4,0
+105,Stephanie Gilbert,Male,50,Port Harcourt,441272,31/12/2024,06/09/2026,25,18,Store,3,1
+106,Roy Torres,Female,18,Kano,198289,01/09/2024,21/12/2026,19,93,Mobile App,3.5,0
+107,Kevin Pena,Female,52,Kano,303934,13/04/2024,15/07/2025,25,45,Mobile App,3.1,1
+108,Michael Dixon,Female,30,Abuja,415690,14/05/2025,22/10/2027,25,31,Store,2.1,1
+109,Diane Beck,Male,42,Ibadan,252416,10/02/2024,02/02/2026,2,85,Online,3.5,1
+110,Robert Potter,Male,24,Kano,493044,08/01/2026,17/06/2028,15,57,Online,4.2,1
+111,Robert Hernandez,Female,59,Port Harcourt,130929,02/04/2026,10/09/2028,11,10,Mobile App,4.1,0
+112,John Atkinson,Female,39,Port Harcourt,496872,02/08/2023,22/12/2025,21,87,Mobile App,4.7,1
+113,Stephen Johnston,Male,52,Abuja,68821,13/09/2023,23/02/2026,21,80,Mobile App,4.8,0
+114,James Hernandez,Male,23,Ibadan,277526,08/05/2026,11/06/2028,6,13,Mobile App,2.9,0
+115,Paul Carrillo,Female,38,Port Harcourt,467408,25/04/2026,12/06/2026,12,8,Store,2.4,1
+116,Colleen Brock,Male,29,Kano,139120,04/11/2023,06/06/2025,13,23,Mobile App,4,1
+117,Amber Wright,Female,27,Ibadan,171733,08/05/2026,27/12/2027,9,60,Mobile App,2,1
+118,Robert Contreras,Female,52,Port Harcourt,132824,27/11/2023,17/09/2024,19,10,Store,3.9,1
+119,Tiffany Vance,Male,34,Ibadan,289513,07/10/2025,14/09/2027,16,39,Online,2.7,1
+120,Stephanie Simmons,Male,36,Ibadan,416623,29/12/2025,10/08/2027,9,38,Online,3.7,0
+121,Christopher Hensley,Male,49,Kano,486647,20/09/2025,03/06/2027,12,37,Online,3.9,1
+122,David Walsh,Male,60,Lagos,406964,21/04/2025,17/03/2027,10,18,Store,2.1,1
+123,Mr. Jeremiah Reeves,Female,26,Ibadan,97255,09/08/2025,29/08/2027,6,38,Online,2.4,1
+124,Francisco Fernandez,Female,50,Ibadan,192882,21/05/2024,16/11/2025,10,22,Mobile App,4.6,0
+125,James Hernandez,Male,22,Ibadan,123797,23/12/2023,16/04/2025,18,97,Store,2.3,1
+126,Jason Daniels,Female,34,Port Harcourt,331318,19/04/2024,04/05/2024,22,16,Mobile App,4,1
+127,Ross Price,Male,58,Ibadan,244759,26/02/2025,19/06/2027,1,14,Mobile App,4.7,1
+128,Alicia Gilmore,Female,32,Port Harcourt,389556,15/11/2025,02/08/2027,21,9,Store,2.4,0
+129,Aaron Bell,Male,37,Abuja,308277,02/11/2025,11/12/2025,18,15,Online,3.2,1
+130,Tiffany Barnes,Male,52,Ibadan,269743,17/01/2025,05/12/2026,21,76,Online,4.5,1
+131,Stephanie Freeman,Male,20,Ibadan,411905,17/09/2025,01/07/2026,15,48,Online,4.6,0
+132,Allen Rogers,Female,41,Lagos,335456,19/07/2024,22/06/2026,13,83,Store,2.6,0
+133,Misty Pittman,Male,47,Kano,98063,12/04/2026,28/08/2028,1,85,Online,4.4,0
+134,Ms. Susan Vargas,Male,54,Kano,157586,07/12/2023,14/04/2024,7,9,Online,3,0
+135,Marvin Taylor,Male,56,Abuja,51486,17/03/2026,02/06/2028,18,36,Store,4.4,0
+136,David Murphy,Female,19,Abuja,119102,09/05/2025,17/03/2027,19,2,Store,2,1
+137,Philip Gray,Male,26,Lagos,438873,28/04/2025,21/06/2025,16,54,Store,4.3,0
+138,Bradley Smith,Male,50,Kano,166155,07/03/2025,13/06/2026,10,79,Store,3.9,0
+139,Trevor Walker,Female,48,Lagos,494228,06/09/2025,08/11/2025,16,52,Mobile App,4.7,0
+140,Marissa Webster,Male,38,Abuja,368923,06/09/2023,28/11/2023,9,19,Mobile App,3.9,1
+141,Alex Hernandez,Female,56,Kano,328164,10/06/2024,06/07/2025,20,38,Store,2.3,0
+142,Brian Gould,Male,59,Ibadan,391267,05/12/2023,27/04/2026,15,99,Online,3.2,1
+143,Pamela Jackson,Female,44,Ibadan,432527,14/05/2025,27/06/2026,11,13,Mobile App,2.8,0
+144,Michelle Strickland,Male,48,Lagos,85197,21/12/2025,25/11/2027,14,12,Online,4.2,1
+145,Ashley Johnson,Female,26,Lagos,341698,01/02/2024,13/05/2026,14,8,Store,4.6,1
+146,Susan Brooks,Female,21,Port Harcourt,200800,18/09/2024,24/02/2027,4,77,Mobile App,3.5,0
+147,Michael Burton,Female,48,Kano,167568,26/03/2024,28/01/2026,12,14,Online,4.3,0
+148,Elizabeth Sutton,Male,45,Kano,493104,28/10/2023,01/02/2026,22,72,Mobile App,2.8,0
+149,Kylie Williams,Male,37,Abuja,228165,27/11/2023,02/09/2024,5,45,Mobile App,4,0
+150,Jacob Hunter,Male,58,Ibadan,66073,27/08/2025,20/01/2026,14,12,Store,3,1
+151,Jason Henry,Male,38,Lagos,457285,03/11/2024,19/09/2025,5,73,Online,4.3,0
+152,Madison Poole,Female,23,Ibadan,192660,26/03/2025,15/02/2027,20,57,Store,3.2,0
+153,Nicholas Sheppard,Female,50,Lagos,109673,15/01/2024,27/02/2026,10,45,Mobile App,4,1
+154,Tamara Hampton,Male,60,Ibadan,211700,15/07/2024,06/01/2026,20,6,Online,2,1
+155,Nicholas Adams,Female,26,Port Harcourt,450640,14/05/2025,17/12/2025,4,33,Online,3.5,1
+156,Angelica Keith,Male,26,Kano,249338,07/06/2024,04/12/2024,18,69,Mobile App,4.4,0
+157,Laura Barnett,Female,20,Lagos,278704,04/06/2024,16/07/2025,11,3,Mobile App,3.3,1
+158,Samuel White,Male,58,Ibadan,268991,26/10/2024,23/10/2026,1,38,Store,2.5,1
+159,David Ramirez,Male,41,Abuja,96205,16/04/2024,16/08/2026,14,56,Mobile App,3.2,0
+160,Desiree Smith,Male,37,Port Harcourt,441016,04/12/2025,14/01/2027,25,44,Online,2.2,0
+161,Nathan Freeman,Female,50,Port Harcourt,151661,14/03/2024,09/09/2025,24,100,Mobile App,4.4,0
+162,Maria Henry,Male,27,Kano,184201,30/05/2024,13/09/2024,5,26,Mobile App,2.2,1
+163,Daniel Holt,Female,54,Kano,448394,18/06/2023,06/10/2024,21,75,Mobile App,5,1
+164,Jackie Tran,Female,58,Lagos,215747,09/09/2024,11/02/2027,16,20,Store,3.9,1
+165,Patrick Rivera,Male,21,Port Harcourt,234519,07/11/2024,06/07/2026,15,65,Store,2.1,1
+166,Eric Hall,Male,36,Kano,90229,18/05/2026,16/09/2028,20,83,Mobile App,3.2,0
+167,Patrick Tapia,Female,54,Kano,391750,17/03/2024,21/06/2025,16,25,Mobile App,2.5,0
+168,Daniel Washington,Male,24,Kano,475180,29/04/2026,04/08/2027,21,44,Online,2.1,1
+169,Kelly Campbell,Male,51,Port Harcourt,324070,23/11/2025,16/02/2027,12,79,Store,3.2,1
+170,Elizabeth Ward,Female,56,Lagos,77454,26/10/2023,21/09/2025,11,81,Online,3.7,1
+171,Joseph Hill,Male,34,Port Harcourt,429444,03/09/2024,21/06/2025,3,85,Mobile App,4,1
+172,Melissa Martinez,Female,59,Abuja,416204,15/08/2023,28/06/2024,20,85,Mobile App,4.8,1
+173,Adam Mitchell,Male,42,Kano,387375,23/06/2025,17/01/2027,3,43,Mobile App,4,1
+174,Cody Williams,Male,41,Port Harcourt,211934,04/06/2025,23/06/2025,25,24,Store,2.6,0
+175,Austin Vasquez,Male,22,Port Harcourt,205080,03/06/2025,09/11/2025,25,13,Mobile App,2.4,1
+176,Amy Hernandez,Male,28,Ibadan,144815,04/11/2025,11/04/2026,2,89,Store,3.1,0
+177,Angela Wright,Female,57,Abuja,199384,13/10/2025,11/01/2027,18,97,Online,2.9,1
+178,Lisa Gibbs,Female,30,Ibadan,242854,05/10/2025,08/02/2028,25,87,Store,4.3,1
+179,Jamie Kerr,Male,30,Port Harcourt,470090,07/05/2024,20/10/2024,2,78,Mobile App,3.4,1
+180,Wanda Torres,Male,24,Port Harcourt,422978,26/08/2024,17/03/2026,3,67,Online,2.8,0
+181,Tyler Garcia,Female,45,Port Harcourt,98084,11/01/2026,11/05/2028,1,29,Store,2.2,1
+182,Deborah Miller,Male,42,Lagos,92784,09/04/2024,07/12/2024,11,48,Online,4.5,1
+183,Benjamin Smith,Female,27,Ibadan,122141,29/05/2024,18/08/2026,23,5,Online,4.3,1
+184,Julie Johnson,Male,57,Port Harcourt,52753,21/04/2025,25/07/2026,7,11,Online,3.6,1
+185,Michele Gibson,Male,36,Lagos,174591,12/08/2024,04/12/2024,8,39,Store,3.9,1
+186,Dennis Moody,Male,25,Kano,488665,24/04/2026,28/06/2026,19,64,Online,4.2,1
+187,Taylor Coleman,Male,18,Kano,372337,24/11/2025,07/02/2027,14,46,Online,4,0
+188,Chase Baker,Male,41,Ibadan,85483,14/09/2025,05/03/2027,16,68,Online,3.9,1
+189,Christopher Parker,Female,19,Abuja,237220,29/12/2023,14/09/2024,24,9,Mobile App,3.9,1
+190,Jessica Harrison,Female,20,Abuja,234706,23/10/2025,09/03/2026,25,70,Mobile App,3.4,1
+191,Terri Mason,Male,29,Ibadan,475458,06/09/2024,15/06/2026,2,18,Store,2.6,0
+192,Kyle Preston,Female,38,Kano,212569,28/06/2025,10/08/2025,16,66,Store,2.1,0
+193,Allison Perez,Female,40,Port Harcourt,459385,04/10/2024,24/07/2025,4,7,Store,3.3,1
+194,Laura Sampson,Male,46,Ibadan,252713,04/04/2026,05/05/2028,23,44,Store,3.1,1
+195,Laura Hines,Male,23,Ibadan,431200,01/04/2026,30/06/2028,20,55,Online,3.6,1
+196,Matthew Moon,Female,23,Port Harcourt,221924,19/02/2024,04/06/2024,15,85,Mobile App,4.2,0
+197,Jessica Olsen DVM,Male,46,Port Harcourt,234311,28/02/2024,04/02/2026,20,58,Store,2.8,0
+198,Gary Santiago,Female,60,Kano,384240,22/05/2025,07/08/2025,24,52,Mobile App,2.5,0
+199,Michael Roberts,Male,56,Abuja,405513,27/01/2024,22/06/2024,3,57,Online,4.3,1
+200,Krista Gibson,Male,42,Ibadan,347399,03/02/2025,09/02/2026,12,5,Store,3.3,0
+201,Brian Barton,Female,26,Port Harcourt,327589,22/09/2024,03/05/2026,21,47,Store,2.7,0
+202,April Booth,Female,29,Kano,311642,30/07/2025,26/08/2025,4,67,Store,4.3,1
+203,Cody Cox,Female,57,Abuja,199724,09/05/2025,15/12/2025,4,89,Online,4.6,1
+204,Olivia Harris,Female,46,Port Harcourt,96027,05/07/2025,29/12/2025,23,88,Online,3.6,1
+205,Dwayne Gilmore,Male,28,Port Harcourt,423192,22/09/2025,27/07/2026,17,91,Online,2.4,0
+206,William Lynch,Male,26,Port Harcourt,174117,13/06/2025,03/09/2027,18,64,Mobile App,3.1,0
+207,Emily Smith,Female,23,Ibadan,84470,28/05/2024,14/02/2026,17,40,Store,4.3,0
+208,Willie Durham,Female,38,Ibadan,386770,14/02/2025,23/06/2025,22,10,Mobile App,3,0
+209,Maria Moore,Male,26,Lagos,276816,08/05/2025,04/07/2027,17,65,Online,2.9,0
+210,Denise Davenport,Female,32,Lagos,231415,18/08/2024,15/07/2025,9,67,Online,3.9,1
+211,Juan Reyes,Male,58,Kano,208767,25/05/2025,01/10/2025,21,79,Online,3.8,0
+212,Sherry Shields,Female,60,Kano,377406,09/12/2025,03/06/2026,2,93,Online,2.2,1
+213,Sarah Morgan,Female,31,Kano,452107,25/07/2024,23/05/2026,21,74,Online,3.5,1
+214,Aaron Barber,Female,37,Port Harcourt,303202,19/07/2025,08/05/2027,15,32,Online,4.1,0
+215,Mary Grimes,Male,44,Port Harcourt,303887,19/11/2025,13/02/2027,20,60,Online,2.9,1
+216,Haley Arnold,Female,40,Kano,259042,15/04/2025,07/05/2027,18,17,Online,3,1
+217,Timothy Kane,Male,35,Lagos,285717,13/09/2025,17/01/2026,2,32,Store,4.8,1
+218,James Chase,Female,28,Abuja,476496,10/05/2026,20/01/2027,25,42,Online,3.5,1
+219,Patrick Thornton,Male,37,Ibadan,310765,19/02/2025,15/07/2026,17,3,Store,4.9,0
+220,Matthew Hoover,Female,40,Ibadan,75510,04/01/2025,25/08/2026,20,7,Mobile App,4,1
+221,Andrew Shaw MD,Female,18,Abuja,494162,14/01/2024,17/07/2025,9,14,Mobile App,3.1,1
+222,Jessica Fox,Male,20,Port Harcourt,260020,25/10/2023,03/11/2024,18,7,Store,2.2,1
+223,Charles Pitts,Male,53,Abuja,196654,01/05/2025,23/06/2027,4,80,Store,3.1,1
+224,Richard Baker,Male,41,Kano,445819,17/01/2024,11/08/2025,17,19,Store,3.5,0
+225,Marie Christian,Female,26,Kano,424127,15/01/2026,24/02/2026,15,43,Online,3.8,0
+226,Jamie Stewart,Female,57,Kano,217001,04/04/2026,06/03/2027,24,21,Store,3.8,1
+227,Amanda Jones,Male,54,Port Harcourt,207176,19/06/2025,15/06/2027,11,61,Mobile App,2.3,1
+228,Donna Perez,Male,37,Kano,467728,27/01/2026,17/09/2027,16,93,Store,4.9,0
+229,Brett Schultz,Male,21,Kano,355934,10/10/2023,18/10/2025,21,62,Mobile App,3.9,1
+230,Michael Berger,Male,33,Abuja,66552,26/10/2023,26/03/2024,1,74,Store,2.9,0
+231,Anthony Howard,Female,31,Lagos,265155,02/08/2023,28/09/2024,23,65,Online,3.6,1
+232,Joseph Knight,Female,48,Abuja,325501,22/03/2025,30/01/2027,15,49,Mobile App,3,1
+233,Bob Pitts,Female,59,Kano,471345,26/02/2024,19/01/2026,16,89,Online,4.9,1
+234,Kathleen Aguilar,Female,37,Abuja,167895,09/01/2026,04/08/2027,23,39,Mobile App,3.5,1
+235,David Scott,Female,53,Port Harcourt,467021,17/05/2024,10/05/2025,4,93,Mobile App,4,1
+236,Julie Roberts,Female,40,Lagos,455308,06/06/2023,15/07/2024,10,19,Mobile App,2.2,1
+237,Jeremy Reed,Male,34,Abuja,441820,18/09/2025,22/07/2027,18,62,Store,4.8,1
+238,Victor Vaughn,Male,24,Abuja,372792,20/11/2025,10/04/2026,2,95,Mobile App,4.7,0
+239,Christina Cruz,Female,32,Port Harcourt,77520,01/05/2025,14/02/2027,23,13,Store,2.3,0
+240,James Howard,Female,53,Ibadan,132806,11/06/2025,17/06/2025,21,53,Online,4.3,1
+241,Elizabeth Spence DDS,Male,36,Kano,388636,24/08/2024,19/07/2025,8,8,Mobile App,4.2,0
+242,Sean Osborne,Male,44,Ibadan,489146,22/07/2024,18/01/2025,16,23,Online,4.8,1
+243,Natasha Wall,Male,20,Port Harcourt,54858,07/08/2023,21/01/2026,10,39,Store,5,1
+244,Crystal Pham,Male,50,Lagos,295377,09/08/2024,25/12/2024,11,35,Online,4.2,1
+245,Lisa Byrd,Female,29,Port Harcourt,57384,27/04/2024,03/05/2026,19,95,Mobile App,4.3,0
+246,Breanna Davis,Female,58,Lagos,262593,12/03/2026,28/11/2027,13,55,Mobile App,2.3,0
+247,Ellen Alexander,Female,38,Ibadan,180048,21/01/2026,25/05/2027,8,1,Store,4.3,1
+248,Carlos Browning,Male,55,Port Harcourt,428998,08/11/2025,14/09/2026,21,74,Store,4.1,0
+249,Casey Anderson,Male,25,Ibadan,294001,11/10/2024,26/08/2026,22,40,Mobile App,4.8,1
+250,Holly Shaw,Female,25,Kano,384868,06/09/2025,14/08/2027,8,38,Online,4.9,1
+251,Dawn Summers,Female,47,Ibadan,442028,19/07/2024,23/12/2024,23,78,Mobile App,4.7,0
+252,Elizabeth Harrell,Male,33,Kano,406695,09/06/2025,30/07/2027,15,97,Mobile App,4.1,0
+253,Bernard Webster,Male,25,Kano,82379,17/11/2023,17/06/2025,18,71,Online,2.5,1
+254,Misty Whitney,Female,31,Lagos,425871,07/05/2024,04/09/2024,17,75,Store,4.4,1
+255,Richard Smith,Male,50,Kano,267802,04/10/2025,17/02/2026,15,59,Mobile App,4.4,0
+256,Jacob Curry,Male,34,Kano,478056,02/09/2025,13/10/2026,3,1,Online,3.3,0
+257,Samantha Bentley,Male,21,Port Harcourt,86185,03/07/2024,09/01/2026,14,61,Online,4.3,1
+258,Kaitlyn Harvey,Female,42,Lagos,285162,07/11/2023,25/11/2024,22,49,Mobile App,4.6,0
+259,Leonard Holland,Female,40,Kano,112197,11/10/2025,12/08/2027,5,23,Mobile App,4.9,0
+260,Susan Turner,Female,19,Kano,206428,03/02/2026,19/03/2028,13,60,Online,2.7,1
+261,Andrew Johnson,Male,35,Lagos,148818,15/02/2025,24/07/2025,22,93,Store,3.8,0
+262,David Medina,Male,31,Ibadan,85279,26/06/2025,28/02/2026,20,13,Mobile App,4.1,0
+263,Michael Paul,Male,20,Kano,260902,15/01/2025,23/09/2025,7,57,Online,2.4,1
+264,Patrick Moore,Female,54,Abuja,217197,08/09/2025,06/05/2026,10,74,Online,5,0
+265,Sandra Gilbert,Male,37,Ibadan,194259,25/02/2025,25/04/2026,18,8,Store,2.1,1
+266,Jacob Ramos,Female,60,Ibadan,249834,30/07/2024,20/05/2026,14,68,Online,2.9,0
+267,Ariana Jennings,Male,52,Port Harcourt,298260,23/05/2024,05/07/2026,23,31,Online,4.4,0
+268,Maria Brown,Male,44,Ibadan,268370,14/09/2025,13/04/2027,8,72,Store,2.6,0
+269,Bryan Charles,Male,41,Lagos,98477,24/07/2024,28/10/2025,9,69,Store,4,0
+270,Daniel Fowler,Male,22,Ibadan,148651,28/04/2025,10/10/2027,7,98,Store,2.9,0
+271,Gavin Zhang,Female,30,Abuja,438746,25/06/2023,28/01/2024,23,16,Mobile App,4.1,1
+272,Ronald Spencer,Female,53,Ibadan,218618,16/10/2025,19/06/2026,15,100,Mobile App,3.9,1
+273,Sergio Murphy,Female,41,Lagos,318863,18/11/2025,13/08/2026,24,64,Store,4.3,1
+274,Linda Ramirez,Male,41,Kano,214061,07/01/2024,03/08/2024,8,53,Mobile App,2.4,1
+275,Ms. Rebecca Rodriguez,Female,55,Port Harcourt,353637,02/01/2024,22/07/2025,5,93,Online,3,1
+276,Hunter Kramer,Female,33,Port Harcourt,311777,02/07/2023,05/02/2025,25,71,Store,4.9,1
+277,Christopher Williams,Male,28,Abuja,434183,22/11/2025,09/03/2027,24,46,Mobile App,3.5,0
+278,Nichole Alvarez,Male,20,Lagos,489913,06/03/2025,25/08/2026,14,10,Online,4.5,0
+279,Ashley Gordon,Female,27,Port Harcourt,54792,05/12/2024,13/02/2025,2,28,Mobile App,3.9,1
+280,Richard Camacho,Female,49,Lagos,58247,02/01/2026,09/11/2027,1,1,Mobile App,4.2,1
+281,Mason Johnson,Female,50,Abuja,476328,10/08/2025,28/08/2025,4,90,Online,3.6,0
+282,Jessica Rodriguez,Female,57,Port Harcourt,326014,05/06/2025,19/12/2025,13,33,Online,3.1,1
+283,Bobby Franklin,Male,54,Port Harcourt,177510,11/04/2025,26/07/2026,22,90,Online,4,0
+284,Marcus Richards,Female,43,Lagos,248843,02/09/2023,07/12/2023,21,49,Online,4.1,0
+285,Kyle Phillips,Male,45,Kano,388117,09/10/2024,05/03/2026,2,43,Online,2.6,1
+286,Annette Miles,Female,20,Kano,88979,16/07/2025,20/04/2026,19,88,Mobile App,2.1,1
+287,Patricia Le,Female,31,Lagos,357775,05/03/2026,22/03/2026,10,19,Online,3.7,1
+288,Stephen Gutierrez,Male,52,Lagos,223921,21/04/2024,16/03/2026,17,50,Mobile App,4.9,0
+289,Nicholas Edwards,Female,45,Kano,171710,26/04/2025,05/08/2025,25,10,Mobile App,4.9,1
+290,Jacqueline Hernandez,Female,38,Ibadan,65532,19/09/2024,21/11/2026,16,82,Online,3.1,1
+291,Ronald Davis,Female,29,Lagos,406355,28/05/2025,14/08/2026,25,75,Mobile App,2.9,0
+292,Jacqueline Anderson,Male,22,Ibadan,93011,20/10/2023,20/10/2025,23,35,Mobile App,2.5,1
+293,Kristina Rivera,Male,41,Port Harcourt,105863,24/08/2023,14/07/2024,15,12,Store,4.3,0
+294,Shane Pugh,Female,23,Kano,148247,28/11/2023,12/04/2024,18,56,Mobile App,3.2,0
+295,Michelle Schmitt,Female,40,Ibadan,340570,10/03/2025,10/06/2025,1,12,Store,3.2,0
+296,Brian Romero,Male,53,Ibadan,177266,10/12/2025,23/12/2027,6,74,Online,2.8,1
+297,Courtney Rodriguez,Female,27,Port Harcourt,83170,18/01/2024,06/06/2025,14,22,Store,3.5,0
+298,Phillip Andrews,Female,34,Kano,179284,03/10/2025,08/10/2026,20,93,Online,3.4,0
+299,Vanessa Cardenas,Female,18,Port Harcourt,257456,19/03/2025,25/01/2026,15,43,Store,3.3,0
+300,Kristin Lynch,Male,38,Ibadan,366256,31/12/2025,04/11/2026,11,89,Online,4.9,1
+301,Debra White,Male,58,Port Harcourt,307429,09/03/2026,02/01/2027,13,74,Store,4.4,1
+302,Tammy Bell,Male,25,Kano,345620,18/05/2026,27/05/2027,1,26,Mobile App,3.4,0
+303,Kylie Morales,Male,36,Ibadan,485831,28/02/2024,22/05/2025,22,89,Store,2.4,1
+304,Valerie Davis,Female,34,Ibadan,395329,29/12/2023,02/09/2024,3,20,Store,5,1
+305,Jason Peterson,Female,43,Kano,330162,24/08/2025,13/04/2027,2,65,Store,4.1,0
+306,Frederick Pugh,Female,33,Abuja,394772,17/12/2024,08/04/2025,21,86,Mobile App,2.1,1
+307,Anthony Moore,Male,39,Lagos,467454,04/12/2025,14/01/2028,4,56,Store,2.7,0
+308,Brad Ramos,Male,41,Port Harcourt,255066,06/01/2026,08/04/2027,1,60,Store,2.3,1
+309,Mr. Donald Fischer,Male,25,Port Harcourt,485849,11/03/2025,07/06/2025,10,94,Store,3.4,0
+310,Brian Gregory,Male,48,Ibadan,232609,15/11/2023,02/05/2025,24,61,Mobile App,3.4,0
+311,Mr. Andrew Foster,Male,20,Lagos,474770,29/11/2025,03/10/2026,11,91,Mobile App,2.3,0
+312,Dan Dougherty,Male,33,Port Harcourt,320529,09/12/2025,07/01/2028,18,23,Store,4.9,0
+313,Donna Wilson,Male,43,Ibadan,380175,22/12/2023,18/03/2026,13,24,Online,4.2,0
+314,Casey James,Male,55,Abuja,275209,03/07/2025,07/10/2026,7,50,Store,4.3,0
+315,Justin Barnett,Male,24,Port Harcourt,469169,20/05/2026,02/01/2028,11,69,Online,3.4,1
+316,Scott Williams,Female,49,Kano,326674,23/11/2024,11/10/2026,13,82,Mobile App,3.2,0
+317,Blake Edwards,Male,40,Port Harcourt,493294,21/06/2023,12/06/2024,20,59,Mobile App,2.3,0
+318,Michelle Butler,Male,25,Abuja,175080,19/03/2025,03/02/2026,12,40,Mobile App,2.4,1
+319,Vincent Jackson,Female,56,Ibadan,122282,17/11/2023,19/01/2025,6,74,Store,3.9,0
+320,Michael Cox,Male,28,Abuja,306713,07/01/2026,30/07/2027,11,37,Store,3.9,1
+321,Dana Chapman,Female,49,Kano,121583,31/03/2025,10/04/2025,17,25,Mobile App,3.5,1
+322,Seth Reese,Male,46,Kano,306219,13/08/2025,13/10/2026,1,22,Online,2.9,1
+323,Christopher Dixon,Female,52,Kano,201346,01/05/2024,18/12/2024,24,22,Store,3.6,0
+324,Cheyenne Parsons,Female,25,Kano,190450,16/11/2023,25/06/2025,25,100,Online,4.3,1
+325,Sabrina Briggs,Male,31,Port Harcourt,272903,18/11/2024,01/06/2026,2,14,Store,2.8,0
+326,David Thompson,Male,25,Kano,456654,24/05/2024,17/08/2025,23,31,Store,4.6,1
+327,Mary Thompson,Male,57,Lagos,122999,15/01/2024,03/07/2024,19,27,Store,3.6,0
+328,Paul Wolf MD,Female,36,Kano,201693,22/01/2026,20/12/2026,22,74,Online,2.4,1
+329,Victoria Morris,Male,35,Abuja,393878,15/10/2025,15/12/2025,5,17,Mobile App,3,0
+330,Jeremiah Harrison,Female,43,Ibadan,306617,21/01/2026,11/03/2028,13,19,Store,2.2,0
+331,Donald Brown,Female,50,Ibadan,443112,27/01/2026,16/03/2027,16,36,Store,3.7,0
+332,Joel Johnson,Female,47,Lagos,382839,19/07/2025,07/08/2027,18,86,Store,2.7,1
+333,Angela Lin,Female,31,Port Harcourt,309373,15/12/2024,09/04/2027,11,35,Mobile App,3.7,1
+334,Katie Ford,Male,39,Lagos,407853,10/10/2023,26/12/2025,4,98,Mobile App,4.4,1
+335,Nancy Williams,Female,25,Ibadan,499656,30/09/2025,17/10/2025,1,21,Store,2.6,0
+336,Erica Alvarez,Male,37,Port Harcourt,133349,27/10/2025,24/08/2027,9,36,Online,3.1,0
+337,Joanna Shepherd,Male,43,Ibadan,377996,12/01/2024,06/03/2024,21,40,Online,4.1,0
+338,Mrs. Maria Williams,Male,48,Kano,90862,06/11/2024,13/06/2025,22,17,Store,2,1
+339,Kelly Bishop MD,Male,25,Ibadan,271414,02/04/2025,18/07/2027,3,89,Online,3.1,0
+340,Raymond Shelton,Male,38,Ibadan,242708,04/08/2024,18/11/2024,25,39,Online,3.9,0
+341,Maria Jones,Male,51,Ibadan,345326,12/08/2023,22/10/2023,12,2,Mobile App,2.6,0
+342,Jasmine King,Male,57,Lagos,409958,16/10/2023,11/12/2024,4,57,Online,4.3,1
+343,Lindsey Hernandez,Male,45,Port Harcourt,214890,07/03/2026,02/03/2027,21,18,Online,2.7,1
+344,Brenda Bailey,Female,19,Abuja,494539,26/09/2023,02/12/2025,17,85,Mobile App,3.5,1
+345,Jenna Larson,Female,59,Ibadan,78609,07/03/2026,04/01/2027,4,31,Online,3.5,0
+346,James Conner,Male,18,Ibadan,239319,01/10/2023,25/03/2025,19,41,Store,3.1,0
+347,Sandra Rodgers,Male,48,Kano,453894,07/12/2023,27/01/2026,3,10,Online,2.8,0
+348,Anna Santiago,Female,43,Ibadan,315609,21/04/2026,22/06/2026,23,37,Store,2.2,0
+349,Jack White,Male,23,Abuja,212480,20/07/2025,01/05/2026,18,11,Store,3.2,0
+350,Ralph Lee,Male,45,Abuja,432708,19/04/2024,03/03/2025,3,31,Store,2.3,0
+351,Edward French,Male,60,Lagos,438861,22/12/2023,03/11/2024,1,85,Mobile App,2.4,0
+352,Sandy Stephenson,Female,49,Abuja,231773,19/07/2025,03/01/2026,12,67,Online,4.2,1
+353,Sherri Williamson,Female,25,Ibadan,454451,20/07/2023,09/08/2025,9,4,Mobile App,2.2,0
+354,Christopher Guerra,Male,47,Ibadan,317796,05/12/2025,28/04/2027,19,47,Online,3.1,1
+355,Carol Kim,Male,24,Abuja,350895,17/01/2026,19/03/2028,24,87,Mobile App,2,0
+356,Nathan Montes,Female,20,Abuja,297340,19/02/2025,28/10/2025,6,47,Online,3.7,1
+357,Paul Cole,Female,38,Port Harcourt,180161,26/12/2025,13/08/2026,3,54,Mobile App,3.1,0
+358,Vincent Mueller,Male,32,Ibadan,471704,29/08/2025,01/03/2026,3,67,Store,4.6,1
+359,Travis Joyce,Male,23,Port Harcourt,339979,19/03/2024,18/02/2025,7,59,Store,3.7,1
+360,Paula Shaw,Female,57,Kano,177183,09/05/2025,06/06/2027,16,60,Online,4.2,0
+361,Ruth Solis,Male,18,Kano,264977,03/03/2025,05/08/2025,12,4,Mobile App,4.5,0
+362,Amy Castillo,Female,18,Port Harcourt,447897,23/12/2023,01/12/2024,4,85,Online,3.6,0
+363,Ashley Singleton,Female,49,Lagos,81402,19/12/2024,22/02/2026,2,19,Online,4.7,1
+364,Phillip Nelson,Male,41,Kano,290364,02/12/2023,19/11/2025,4,96,Mobile App,2.4,1
+365,Jeffrey Potts,Female,55,Abuja,347701,28/07/2025,13/10/2025,8,8,Store,2.8,1
+366,Stacey Arias,Female,43,Port Harcourt,417382,01/05/2024,31/07/2026,15,95,Store,2.7,0
+367,Jonathan Young,Male,55,Abuja,107133,25/02/2025,15/07/2025,15,20,Store,2.9,0
+368,Alfred Galvan,Female,40,Port Harcourt,453878,26/09/2023,28/03/2025,15,27,Store,4.6,0
+369,Charles Johnson,Male,37,Abuja,483264,25/02/2026,06/08/2026,11,91,Online,2.3,0
+370,Brenda Thornton,Female,43,Port Harcourt,319200,25/05/2025,25/05/2026,6,7,Online,4.9,1
+371,Susan Smith,Female,53,Lagos,180994,18/04/2025,09/11/2026,5,13,Online,2,0
+372,Kimberly Acosta,Female,30,Lagos,481842,22/04/2024,03/09/2024,19,52,Mobile App,2.8,0
+373,Ricardo Young,Female,22,Abuja,153678,19/08/2025,11/09/2025,3,83,Store,2.4,1
+374,Jason Bauer,Female,28,Ibadan,350880,28/11/2023,19/01/2024,1,56,Store,4,0
+375,Russell Porter,Female,31,Ibadan,148121,02/05/2025,30/04/2026,5,36,Online,3.8,0
+376,Jose Allen,Female,36,Lagos,311562,01/09/2025,26/06/2027,3,53,Store,3.1,1
+377,Aaron Gomez,Male,59,Kano,467961,01/01/2024,24/07/2024,1,68,Store,4.3,1
+378,Matthew Miller,Female,52,Kano,459697,25/10/2025,01/03/2027,17,63,Store,3.2,0
+379,Joseph Romero,Male,38,Port Harcourt,363060,03/12/2024,30/12/2024,2,29,Store,3.6,0
+380,Jeanette Harrison,Male,24,Port Harcourt,179948,19/07/2025,30/12/2025,18,85,Mobile App,2.2,0
+381,James Burgess,Male,42,Abuja,236019,03/02/2026,16/09/2027,19,23,Store,4.4,1
+382,Haley Quinn,Female,19,Kano,418811,27/11/2024,26/07/2026,19,90,Online,3.7,0
+383,Kevin Sherman,Male,49,Ibadan,334229,22/01/2026,28/05/2028,2,40,Online,2.2,0
+384,Joshua Li,Female,51,Kano,300603,16/12/2023,06/01/2024,7,1,Online,3,0
+385,Melinda Pollard,Male,38,Kano,81224,18/02/2024,20/05/2026,23,3,Online,4.3,1
+386,Robin Brown,Female,41,Kano,419380,04/06/2025,18/08/2025,4,85,Store,2.9,0
+387,Dakota Moody,Female,45,Port Harcourt,465153,02/05/2025,11/10/2025,6,82,Mobile App,4.9,1
+388,Eric Sanders,Female,60,Port Harcourt,358779,27/07/2023,12/03/2024,24,23,Mobile App,2.9,0
+389,Andrew Lucas,Female,18,Kano,418054,12/09/2025,29/09/2027,2,74,Online,3.8,0
+390,Richard Glenn,Male,54,Port Harcourt,104583,09/08/2024,26/05/2026,24,64,Online,2.7,1
+391,Robert Kim,Female,58,Ibadan,96517,19/10/2024,09/04/2025,1,91,Store,2.6,0
+392,Stephanie Hughes,Male,34,Lagos,462625,02/02/2025,27/01/2026,13,14,Store,4.2,0
+393,Jonathan Glass MD,Female,49,Lagos,248554,08/03/2024,06/05/2025,16,45,Mobile App,4,0
+394,Angela Morrison,Female,46,Lagos,88644,28/09/2023,13/03/2024,11,5,Store,4.9,0
+395,Erica Miller,Male,28,Kano,246848,27/02/2024,12/02/2025,3,21,Store,3.8,1
+396,Jeremy Robbins,Male,19,Kano,276137,14/03/2026,05/03/2028,14,84,Online,2.2,1
+397,Heather Williams,Female,30,Port Harcourt,264580,05/02/2024,03/09/2024,10,90,Online,2.3,1
+398,Jessica Fowler,Male,53,Lagos,490325,20/11/2024,29/06/2026,12,63,Online,3.3,1
+399,Mark Cox,Female,60,Abuja,377727,20/08/2023,11/12/2025,4,77,Online,2.6,1
+400,Andre Allison,Female,48,Ibadan,492378,12/04/2026,05/07/2026,16,15,Store,4.7,1
+401,Amanda Jones,Male,59,Port Harcourt,335278,10/04/2026,13/07/2026,13,50,Store,2.6,0
+402,James Bradley,Male,46,Port Harcourt,293824,18/02/2026,15/11/2026,19,34,Online,2.5,0
+403,Jerry Watson,Female,60,Kano,230245,17/12/2025,15/03/2026,8,70,Mobile App,2.2,1
+404,Laura Moreno,Female,51,Kano,269483,11/04/2025,29/07/2027,8,69,Store,2.9,1
+405,Donald Horne,Male,20,Lagos,313245,30/01/2025,24/06/2027,25,74,Store,2.5,0
+406,Kathryn Hughes,Female,30,Lagos,116157,02/07/2023,04/02/2024,22,6,Store,2.6,0
+407,Reginald Padilla,Male,56,Lagos,185206,11/10/2025,13/02/2028,13,41,Mobile App,3.2,1
+408,Donna Hendricks DDS,Male,35,Kano,322466,20/04/2024,15/09/2026,19,59,Mobile App,4.3,0
+409,Benjamin Thompson,Male,27,Lagos,127699,29/11/2023,27/01/2025,19,73,Online,4.4,1
+410,Rita Ponce DVM,Female,44,Kano,188483,13/04/2025,29/09/2027,20,50,Store,2.1,1
+411,Austin Daniels,Female,27,Lagos,374138,25/03/2026,12/05/2027,13,78,Store,4.1,0
+412,Michelle Ho,Male,48,Port Harcourt,190815,30/08/2024,03/10/2026,10,48,Store,2.8,1
+413,Isaiah Walker,Female,24,Ibadan,169515,06/02/2026,04/07/2028,25,18,Store,2.8,1
+414,Cynthia Snyder,Female,59,Abuja,96812,30/03/2024,10/12/2025,14,25,Mobile App,3.5,1
+415,Jackie Lara,Male,21,Port Harcourt,320149,03/12/2024,24/03/2027,23,21,Mobile App,3.2,0
+416,Stephen Jones,Male,30,Abuja,486695,25/09/2025,22/03/2026,2,26,Store,2.2,1
+417,Dr. Kelly Hammond DVM,Female,30,Kano,193643,30/01/2025,22/01/2027,13,48,Mobile App,4.8,0
+418,Evan Jones,Female,41,Abuja,306265,14/09/2023,19/05/2024,16,77,Mobile App,3.7,1
+419,Haley Humphrey,Male,34,Port Harcourt,442671,15/05/2025,30/10/2025,1,89,Store,2.1,0
+420,Catherine Burch,Male,32,Port Harcourt,389413,25/09/2025,20/02/2028,21,29,Store,3.5,0
+421,Sheena Guerra,Male,26,Abuja,389409,25/03/2025,24/07/2026,9,23,Mobile App,4.4,1
+422,Christopher Morris,Female,59,Port Harcourt,194377,04/08/2025,04/08/2027,15,55,Store,2.7,1
+423,Todd Jacobson,Female,51,Kano,482176,07/05/2024,01/04/2026,4,80,Online,3.5,1
+424,Mark Pierce,Female,59,Port Harcourt,361307,22/09/2023,19/04/2025,22,78,Online,3.4,1
+425,Lisa Davis,Female,58,Port Harcourt,220465,03/12/2023,12/09/2024,7,36,Online,3.6,0
+426,Todd Moore,Female,56,Abuja,261863,11/02/2026,11/04/2026,24,85,Online,4,1
+427,Stephanie Morgan,Male,44,Kano,262126,11/03/2026,02/12/2026,23,50,Mobile App,4.4,1
+428,Scott Miller,Female,32,Port Harcourt,409828,14/10/2025,28/10/2027,17,69,Store,4.5,0
+429,Deborah Clark,Female,24,Kano,296824,12/02/2026,10/12/2026,25,17,Online,4.8,1
+430,Mark Jimenez,Male,23,Port Harcourt,166524,27/10/2025,29/08/2027,14,46,Store,3.1,1
+431,Maria Turner,Male,25,Ibadan,296696,21/01/2026,11/05/2027,7,7,Mobile App,2.4,1
+432,Melinda Evans,Male,37,Abuja,266587,06/06/2024,01/12/2025,7,7,Store,3.2,1
+433,Brooke Perry,Male,38,Ibadan,425216,13/09/2023,07/02/2024,11,24,Mobile App,5,1
+434,Lawrence Edwards,Female,21,Abuja,52471,13/05/2025,22/02/2027,25,58,Online,3.7,0
+435,Shannon Hester,Female,23,Ibadan,117845,30/09/2024,14/02/2026,13,79,Store,4.9,1
+436,Kayla Rodriguez,Female,20,Lagos,329855,12/12/2023,17/12/2023,11,26,Mobile App,2.6,0
+437,Derek Wright,Female,33,Port Harcourt,168628,01/06/2024,05/03/2026,5,89,Online,3.2,1
+438,Tony Lin,Female,22,Port Harcourt,481931,20/10/2023,09/04/2024,15,6,Mobile App,3.6,1
+439,Sean Moore,Female,26,Abuja,229690,02/03/2025,21/05/2026,6,63,Store,2.1,0
+440,Michelle Lee,Male,26,Kano,160724,12/10/2024,27/10/2026,17,94,Online,2.4,0
+441,Mr. Jonathan Parker Jr.,Male,58,Kano,184107,25/01/2024,13/02/2025,2,99,Mobile App,2.3,0
+442,Tracy Lewis,Female,25,Lagos,268510,22/01/2025,13/03/2025,18,57,Store,3.4,0
+443,Douglas Harper,Female,58,Lagos,54878,21/11/2024,20/06/2025,22,39,Mobile App,2.8,0
+444,Donna Smith,Male,24,Port Harcourt,318217,04/03/2026,07/05/2027,4,93,Online,3.5,0
+445,Stephen Luna,Male,34,Port Harcourt,485944,05/11/2023,10/01/2026,23,67,Store,2.9,0
+446,James Hudson,Female,49,Port Harcourt,158891,07/02/2025,23/08/2026,8,89,Online,2,0
+447,Dylan Hughes,Male,54,Lagos,400760,20/03/2024,12/07/2024,25,64,Mobile App,2.2,0
+448,Diana Hays,Female,59,Port Harcourt,171194,21/04/2025,09/01/2026,15,59,Online,2.3,0
+449,Betty Davis,Female,20,Port Harcourt,496823,13/04/2026,25/09/2028,14,38,Mobile App,2.3,0
+450,Gina Mcmillan,Male,26,Port Harcourt,397789,22/12/2024,01/01/2025,12,83,Store,4.9,1
+451,Jordan Porter,Male,23,Lagos,245361,02/01/2024,20/06/2026,13,44,Store,4.9,1
+452,Micheal Brock,Female,42,Abuja,411707,01/08/2023,04/12/2025,4,62,Online,4.1,0
+453,Larry Robertson,Female,28,Kano,104375,06/08/2025,19/12/2027,22,54,Store,2.5,1
+454,Emily Long,Male,40,Ibadan,370527,13/10/2024,20/12/2026,16,4,Online,4.7,1
+455,Elizabeth Rogers,Female,22,Lagos,187160,04/01/2026,21/02/2026,23,84,Mobile App,3.6,0
+456,Michelle Evans,Male,39,Ibadan,322157,22/07/2025,08/06/2027,22,67,Mobile App,2.7,1
+457,Michael Whitney,Male,59,Lagos,251786,17/06/2023,27/04/2025,21,20,Online,3.5,1
+458,Steven Wiggins,Female,49,Port Harcourt,136719,14/11/2025,05/04/2028,8,10,Store,4.9,0
+459,John Coffey,Female,32,Ibadan,338618,24/01/2026,28/06/2027,8,83,Online,3.4,1
+460,Mikayla Silva,Male,49,Ibadan,284392,06/11/2025,05/02/2026,24,41,Mobile App,2.1,1
+461,Michelle Hampton,Male,20,Lagos,342097,11/02/2024,09/04/2025,20,71,Mobile App,3.9,0
+462,Michael Johnson,Female,60,Lagos,289184,02/01/2025,04/11/2026,8,44,Store,3,1
+463,Albert Edwards,Female,60,Lagos,240470,15/05/2026,18/05/2028,4,92,Mobile App,2.7,1
+464,Damon Shaw,Female,58,Lagos,469384,13/01/2024,11/01/2025,2,38,Online,3.5,1
+465,Shelley Fitzgerald,Male,34,Lagos,370262,27/12/2025,16/04/2026,13,26,Online,3.4,0
+466,Kelly Hoffman,Female,39,Lagos,106500,27/08/2023,30/08/2025,21,97,Mobile App,3.8,1
+467,James Frye,Male,60,Ibadan,358971,16/03/2026,28/06/2027,1,65,Mobile App,4.2,1
+468,Gloria Gomez,Male,55,Kano,303195,06/05/2025,12/09/2027,6,66,Mobile App,4.4,0
+469,Melissa Bishop,Female,60,Kano,364859,14/04/2026,16/05/2027,13,78,Store,4.9,0
+470,Diana Evans,Female,43,Abuja,229756,16/03/2024,22/12/2024,5,38,Store,3.8,1
+471,Michele Vaughn,Male,53,Abuja,214579,27/08/2024,08/01/2027,7,92,Mobile App,4.1,1
+472,Gregory Peck,Male,26,Kano,422452,20/06/2025,10/05/2027,18,84,Mobile App,3.9,0
+473,Kenneth Daniels,Female,40,Kano,344796,20/07/2024,08/09/2026,10,62,Store,4.4,0
+474,Tina Ballard,Male,42,Abuja,126193,24/01/2025,19/02/2025,9,7,Online,5,1
+475,Tyler Miller,Male,21,Kano,412070,16/08/2024,13/01/2025,2,38,Store,4.4,0
+476,Nicole Lewis,Female,53,Abuja,167601,09/04/2025,31/12/2026,17,96,Mobile App,2.9,0
+477,Justin Nelson,Female,42,Kano,268400,05/09/2025,01/10/2026,2,88,Online,4.2,0
+478,Laurie Sanchez,Female,46,Kano,485150,08/11/2023,05/08/2025,18,29,Mobile App,3.8,0
+479,Courtney Hall,Male,46,Abuja,143022,28/03/2026,24/01/2027,6,88,Mobile App,3.5,1
+480,Mitchell Garcia,Female,45,Abuja,196335,25/10/2023,06/12/2023,6,72,Mobile App,4.5,0
+481,Joshua Hickman,Male,47,Abuja,422081,22/12/2023,25/11/2024,11,20,Mobile App,2.2,1
+482,Shirley Alvarez,Male,54,Port Harcourt,338442,13/02/2025,01/07/2026,17,46,Online,4.9,0
+483,Victor Morris,Female,50,Lagos,133556,26/02/2026,12/05/2028,12,54,Online,4.7,1
+484,Randy Pearson,Female,41,Kano,203917,19/02/2026,25/01/2027,25,28,Mobile App,2,1
+485,Miranda Zuniga,Male,33,Lagos,386731,17/05/2024,17/08/2025,22,79,Store,3.1,0
+486,Ryan Peck,Female,34,Lagos,333239,18/02/2024,20/03/2025,17,93,Store,3.5,1
+487,Jennifer Simpson DVM,Male,20,Port Harcourt,205416,18/07/2023,28/11/2024,17,84,Online,4.8,0
+488,Alexandra Bradley,Male,52,Abuja,329553,14/08/2024,15/10/2026,22,1,Mobile App,4.3,1
+489,Frances Gibson,Female,24,Lagos,157782,05/11/2023,10/03/2026,24,69,Mobile App,2.5,1
+490,Kathleen Mays,Male,39,Lagos,69863,12/02/2026,17/02/2028,6,12,Store,3.7,0
+491,Corey Rodriguez,Female,44,Ibadan,253440,14/07/2025,05/04/2026,11,58,Online,3.2,0
+492,Mariah Higgins,Male,18,Kano,386290,30/01/2024,31/07/2025,2,93,Mobile App,4.5,1
+493,Rachel Bradley,Female,24,Kano,201957,13/06/2023,09/11/2024,3,88,Store,4.3,1
+494,Scott Prince,Male,43,Ibadan,481028,18/03/2024,13/04/2025,6,85,Mobile App,2.7,1
+495,Angie Caldwell,Male,52,Port Harcourt,204653,17/03/2025,11/06/2027,22,82,Mobile App,3.9,0
+496,Mrs. Taylor Smith,Male,53,Lagos,124120,05/03/2024,23/09/2025,19,16,Mobile App,3.2,0
+497,Paul Finley,Female,31,Abuja,442322,07/01/2025,16/11/2025,14,95,Mobile App,4.6,0
+498,Laura Green,Female,29,Abuja,165756,03/09/2024,15/02/2025,4,79,Online,4,0
+499,Amy Wilson,Male,53,Port Harcourt,291835,01/12/2024,22/04/2027,22,83,Online,2.8,0
+500,Michael Leblanc,Female,55,Abuja,305428,10/09/2024,24/09/2026,22,43,Mobile App,2.7,1
